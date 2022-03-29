@@ -1,4 +1,4 @@
-from classical_solution_v4 import FourBodyProblem
+from classical_solution_four_bodies import FourBodyProblem
 import numpy as np
 import random
 import csv

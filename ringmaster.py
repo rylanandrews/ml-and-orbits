@@ -1,8 +1,8 @@
 # Compares the outputs for the classical solution and the ML solution to the four body problem
 
 # Imports for the four body problem engine
-from classical_solution_v4 import FourBodyProblem
-import data_generator_v3 as data_gen
+from classical_solution_four_bodies import FourBodyProblem
+import data_generator as data_gen
 
 # Imports for ML
 import tensorflow as tf

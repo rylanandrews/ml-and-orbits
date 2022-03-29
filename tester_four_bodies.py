@@ -1,4 +1,4 @@
-from classical_solution_v4 import FourBodyProblem
+from classical_solution_four_bodies import FourBodyProblem
 
 three_body_problem = FourBodyProblem(1, 1500, 0.2, 1.1, 2, 1.3, [0.5, 0], [-0.5, 0], [0, 0.5], [0, -0.5], [0, 0.01], [0, -0.01], [-0.03, 0], [0.05, 0.05])
 
